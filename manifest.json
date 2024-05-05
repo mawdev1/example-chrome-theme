@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "version": "1.0",
-    "name": "Your Theme Name",
+    "name": "Theme Boilerplate",
     "theme": {
       "colors": {
         "bookmark_text": [255, 255, 255],
